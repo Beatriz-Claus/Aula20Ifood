@@ -1,0 +1,13 @@
+C:\Users\cristina dias\Desktop\Aula20Ifood\bin\Debug\netcoreapp3.1\Aula20Ifood.exe
+C:\Users\cristina dias\Desktop\Aula20Ifood\bin\Debug\netcoreapp3.1\Aula20Ifood.deps.json
+C:\Users\cristina dias\Desktop\Aula20Ifood\bin\Debug\netcoreapp3.1\Aula20Ifood.runtimeconfig.json
+C:\Users\cristina dias\Desktop\Aula20Ifood\bin\Debug\netcoreapp3.1\Aula20Ifood.runtimeconfig.dev.json
+C:\Users\cristina dias\Desktop\Aula20Ifood\bin\Debug\netcoreapp3.1\Aula20Ifood.dll
+C:\Users\cristina dias\Desktop\Aula20Ifood\bin\Debug\netcoreapp3.1\Aula20Ifood.pdb
+C:\Users\cristina dias\Desktop\Aula20Ifood\obj\Debug\netcoreapp3.1\Aula20Ifood.csprojAssemblyReference.cache
+C:\Users\cristina dias\Desktop\Aula20Ifood\obj\Debug\netcoreapp3.1\Aula20Ifood.csproj.CoreCompileInputs.cache
+C:\Users\cristina dias\Desktop\Aula20Ifood\obj\Debug\netcoreapp3.1\Aula20Ifood.AssemblyInfoInputs.cache
+C:\Users\cristina dias\Desktop\Aula20Ifood\obj\Debug\netcoreapp3.1\Aula20Ifood.AssemblyInfo.cs
+C:\Users\cristina dias\Desktop\Aula20Ifood\obj\Debug\netcoreapp3.1\Aula20Ifood.dll
+C:\Users\cristina dias\Desktop\Aula20Ifood\obj\Debug\netcoreapp3.1\Aula20Ifood.pdb
+C:\Users\cristina dias\Desktop\Aula20Ifood\obj\Debug\netcoreapp3.1\Aula20Ifood.genruntimeconfig.cache

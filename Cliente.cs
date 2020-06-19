@@ -9,7 +9,7 @@ namespace Aula20Ifood
 
         public void MostrarDados(){
             Console.ForegroundColor = ConsoleColor.Yellow;
-            System.Console.WriteLine($"\nConfirme seus dados: \nNome: {Nome} \nEndereço de Entrega: {Endereco} \nResponda com Sim ou Não.");
+            System.Console.WriteLine($"\nConfirme seus dados: \nNome: {Nome} \nEndereço de Entrega: {Endereco} \nConfirme seus dados com Sim ou Não.");
             Console.ResetColor();
         }
     }

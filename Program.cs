@@ -13,7 +13,7 @@ namespace Aula20Ifood
 
             //
             Cliente cliente = new Cliente();
-            cliente.Nome = "Jacira";
+            cliente.Nome = "Jacira Claus";
             cliente.Endereco = "Jd. Antartica";
 
             string resposta = null;
